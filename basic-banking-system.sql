@@ -50,7 +50,7 @@ INSERT INTO `customers` (`cust_id`, `cust_name`, `email`, `current_balance`, `co
 (22628, 'Aarushi Aurora', 'aarushora@gmail.com', 2500, 5637279359),
 (22629, 'Aarti Prasad', 'aartiad@gmail.com', 6000, 5840400064),
 (22630, 'Vijay Gopal', 'vijay12@gmail.com', 5000, 267753772),
-(22631, 'Kaushik Sriram ', 'kaushik162000@gmail.com', 27000, 6454356775);
+(22631, 'Main User', 'mainuser@gmail.com', 27000, 6454356775);
 
 -- --------------------------------------------------------
 
